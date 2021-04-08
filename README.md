@@ -1,5 +1,7 @@
 # Bear Share
 
+The goal for this project was to build an app where users can buy and sell teddy bears! Users are able to search for a bear, can buy, and can sell a bear! Users must create an account if they wish to buy or sell.
+
 ## Table of Contents
 
 1. [Description](#Description)
@@ -9,10 +11,6 @@
 5. [Installation](#Installation)
 6. [Usage](#Usage)
 7. [Credits](#Credits)
-
-## Description
-
-The goal for this project was to build an app where users can buy and sell teddy bears! Users are able to search for a bear, can buy, and can sell a bear! Users must create an account if they wish to buy or sell.
 
 ## GitHub Repo and Heroku Deployment
 
