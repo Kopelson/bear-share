@@ -1,4 +1,4 @@
-# Bear Share
+# Bear Share :
 
 The goal for this project was to build an app where users can buy and sell teddy bears! Users are able to search for a bear, can buy, and can sell a bear! Users must create an account if they wish to buy or sell.
 
